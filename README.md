@@ -14,7 +14,7 @@ the price is refered to as "money" since it could be dollars,shekels and anythin
    ```
 2. Install the required dependencies:
    ```
-   pip install pandas
+   Pip install -r Requirements.txt
    ```
 
 ## Usage
